@@ -70,15 +70,12 @@ uni-app 数字框组件（number-box）
 
 ## 使用示例
 
-详细代码 [Demo](https://github.com/songhailong8174/categories)
+详细代码 [Demo](https://github.com/songhailong8174/number-box)
 
 ## 插件截图
 
-![img](https://cdn.jsdelivr.net/gh/songhailong8174/images/img/1.png)
+![img](https://cdn.jsdelivr.net/gh/songhailong8174/images/img/number-box.png)
 
-![img](https://cdn.jsdelivr.net/gh/songhailong8174/images/img/2.png)
 
-![img](https://cdn.jsdelivr.net/gh/songhailong8174/images/img/3.png)
-
-PS：如有问题可联系QQ（1365763165）或者提issure，如果帮到你了还请不要吝啬给个 [Star](https://github.com/songhailong8174/categories)哈
+PS：如有问题可联系QQ（1365763165）或者提issure，如果帮到你了还请不要吝啬给个 [Star](https://github.com/songhailong8174/number-box)
 
